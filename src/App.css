@@ -23,3 +23,6 @@
 .input {
   height: 50px;
 }
+table {
+  width: 250px !important;
+}
