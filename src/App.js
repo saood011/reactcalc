@@ -32,8 +32,8 @@ export class App extends Component {
   render() {
     return (
       <div>
-        <div className="container mt-3">
-          <table className="table col-3 text-center border shadow">
+        <div className="container mt-3 d-flex justify-content-center">
+          <table className="table text-center border shadow">
             <tbody>
               <tr>
                 <td colSpan="4">
